@@ -96,14 +96,6 @@ streamlit run app.py
 
 ---
 
-### 👩‍💻 Author
-
-**Soukaina Gadir**
-AI & Data Science Researcher 
-📍 [GitHub: @SoukainaGad](https://github.com/SoukainaGad)
-
----
-
 ### ⚖️ Disclaimer
 
 This chatbot uses **AI-generated responses** and should not be treated as professional, legal, or medical advice.
