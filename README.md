@@ -9,7 +9,7 @@ The chatbot supports **multi-turn conversations**, remembering previous messages
 
 ---
 
-### ✨ Features
+### ✨ Featureees
 
 *  **Conversational Memory** — remembers previous messages in the chat.
 *  **Groq Llama-3.3-70B** — high-speed reasoning and response generation.
