@@ -19,7 +19,7 @@ The chatbot supports **multi-turn conversations**, remembering previous messages
 
 ---
 
-### ⚙️ How It Works
+### ⚙️ How It Workkkks
 
 1. The user sends a message in the Streamlit chat interface.
 2. The chatbot records the conversation in memory (`st.session_state`).
